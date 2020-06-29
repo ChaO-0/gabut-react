@@ -1,5 +1,9 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Requirements
+
+Before trying this, please install material UI module [https://material-ui.com/](https://material-ui.com/)
+
 ## Available Scripts
 
 In the project directory, you can run:
